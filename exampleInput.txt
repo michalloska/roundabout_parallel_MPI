@@ -1,0 +1,4 @@
+> make
+> make run procs=2 # uruchomienie dla 2 wjazdów ronda
+> make run procs=4 # -//-
+> make run procs=7 # -//
